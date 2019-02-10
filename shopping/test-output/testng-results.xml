@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52743" started-at="2018-01-30T15:47:00Z" finished-at="2018-01-30T15:47:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52743" started-at="2018-01-30T15:47:00Z" finished-at="2018-01-30T15:47:53Z">
+      <class name="com.k2js.shopping.pageObject.Main1">
+        <test-method status="PASS" signature="bropen()[pri:0, instance:com.k2js.shopping.pageObject.Main1@74d1dc36]" name="bropen" is-config="true" duration-ms="37650" started-at="2018-01-30T21:17:00Z" finished-at="2018-01-30T21:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bropen -->
+        <test-method status="PASS" signature="popupEmailError()[pri:0, instance:com.k2js.shopping.pageObject.Main1@74d1dc36]" name="popupEmailError" duration-ms="248" started-at="2018-01-30T21:17:38Z" finished-at="2018-01-30T21:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popupEmailError -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.k2js.shopping.pageObject.Main1@74d1dc36]" name="exit" is-config="true" duration-ms="0" started-at="2018-01-30T21:17:38Z" finished-at="2018-01-30T21:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+        <test-method status="PASS" signature="bropen()[pri:0, instance:com.k2js.shopping.pageObject.Main1@74d1dc36]" name="bropen" is-config="true" duration-ms="13767" started-at="2018-01-30T21:17:38Z" finished-at="2018-01-30T21:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bropen -->
+        <test-method status="PASS" signature="popupPasswordError()[pri:1, instance:com.k2js.shopping.pageObject.Main1@74d1dc36]" name="popupPasswordError" duration-ms="1040" started-at="2018-01-30T21:17:52Z" finished-at="2018-01-30T21:17:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popupPasswordError -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.k2js.shopping.pageObject.Main1@74d1dc36]" name="exit" is-config="true" duration-ms="0" started-at="2018-01-30T21:17:53Z" finished-at="2018-01-30T21:17:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.k2js.shopping.pageObject.Main1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

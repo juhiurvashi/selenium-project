@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18605" started-at="2017-11-13T11:19:43Z" finished-at="2017-11-13T11:20:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18605" started-at="2017-11-13T11:19:43Z" finished-at="2017-11-13T11:20:02Z">
+      <class name="com.k2js.w3School.pagescripts.TestRunner">
+        <test-method status="PASS" signature="init(java.lang.String, java.lang.String)[pri:0, instance:com.k2js.w3School.pagescripts.TestRunner@4883b407]" name="init" is-config="true" duration-ms="21" started-at="2017-11-13T16:49:43Z" finished-at="2017-11-13T16:49:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[local]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.k2js.w3School.pagescripts.TestRunner@4883b407]" name="preCondition" is-config="true" duration-ms="7582" started-at="2017-11-13T16:49:44Z" finished-at="2017-11-13T16:49:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:com.k2js.w3School.pagescripts.TestRunner@4883b407]" name="verifyHomePage" duration-ms="10943" started-at="2017-11-13T16:49:51Z" finished-at="2017-11-13T16:50:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+      </class> <!-- com.k2js.w3School.pagescripts.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

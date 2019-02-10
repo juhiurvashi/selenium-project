@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13828" started-at="2017-08-19T13:23:13Z" finished-at="2017-08-19T13:23:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13828" started-at="2017-08-19T13:23:13Z" finished-at="2017-08-19T13:23:27Z">
+      <class name="com.k2js.Snapdeal.HomePage.a">
+        <test-method status="PASS" signature="m()[pri:0, instance:com.k2js.Snapdeal.HomePage.a@5b275dab]" name="m" duration-ms="13793" started-at="2017-08-19T18:53:13Z" finished-at="2017-08-19T18:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m -->
+      </class> <!-- com.k2js.Snapdeal.HomePage.a -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

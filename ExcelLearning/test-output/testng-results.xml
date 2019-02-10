@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67" started-at="2018-12-16T13:06:40Z" finished-at="2018-12-16T13:06:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67" started-at="2018-12-16T13:06:40Z" finished-at="2018-12-16T13:06:40Z">
+      <class name="com.k2js.ExcelLearning.ExcelPractice.ExcelReads">
+        <test-method status="PASS" signature="verifyRegisterPage([Ljava.lang.String;)[pri:0, instance:com.k2js.ExcelLearning.ExcelPractice.ExcelReads@757acd7b]" name="verifyRegisterPage" duration-ms="17" started-at="2018-12-16T13:06:40Z" data-provider="ntd" finished-at="2018-12-16T13:06:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@53fdffa1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterPage -->
+        <test-method status="PASS" signature="verifyRegisterPage([Ljava.lang.String;)[pri:0, instance:com.k2js.ExcelLearning.ExcelPractice.ExcelReads@757acd7b]" name="verifyRegisterPage" duration-ms="0" started-at="2018-12-16T13:06:40Z" data-provider="ntd" finished-at="2018-12-16T13:06:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5562c41e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterPage -->
+      </class> <!-- com.k2js.ExcelLearning.ExcelPractice.ExcelReads -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

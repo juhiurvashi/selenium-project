@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <parameter name="rm" value="local"/>
+    <parameter name="bn" value="chrome"/>
+    <classes>
+      <class name="com.k2js.newtours.testrunner.NewToursTestRunner">
+        <methods>
+          <include name="preCondition"/>
+          <include name="verifyHomePage"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.k2js.newtours.testrunner.NewToursTestRunner -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

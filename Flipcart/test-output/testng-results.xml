@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12732" started-at="2017-11-05T14:00:56Z" finished-at="2017-11-05T14:01:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12732" started-at="2017-11-05T14:00:56Z" finished-at="2017-11-05T14:01:09Z">
+      <class name="com.k2js.flipcart.testrunner.TestRunner">
+        <test-method status="PASS" signature="init(java.lang.String, java.lang.String)[pri:0, instance:com.k2js.flipcart.testrunner.TestRunner@4883b407]" name="init" is-config="true" duration-ms="23" started-at="2017-11-05T19:30:56Z" finished-at="2017-11-05T19:30:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[local]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.k2js.flipcart.testrunner.TestRunner@4883b407]" name="preCondition" is-config="true" duration-ms="11733" started-at="2017-11-05T19:30:56Z" finished-at="2017-11-05T19:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:com.k2js.flipcart.testrunner.TestRunner@4883b407]" name="verifyHomePage" duration-ms="947" started-at="2017-11-05T19:31:08Z" finished-at="2017-11-05T19:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+      </class> <!-- com.k2js.flipcart.testrunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
